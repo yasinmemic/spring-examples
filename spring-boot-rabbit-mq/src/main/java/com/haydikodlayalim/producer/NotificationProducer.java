@@ -12,6 +12,7 @@ import java.util.UUID;
 
 @Service
 public class NotificationProducer {
+
     @Autowired
     private RabbitTemplate rabbitTemplate; // connection nesnesi gibi dusunulebilir...
 
