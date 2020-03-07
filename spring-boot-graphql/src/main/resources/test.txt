@@ -1,0 +1,14 @@
+# query{
+#   getVehicleById(id:1){
+#     brandName
+#   }
+# }
+
+
+# mutation{
+#   createVehicle(vehicle: {vehicleType:"Sedan", modelCode:"2019", brandName:"Mercedes"}){
+#     id,
+#     launchDate,
+#     brandName
+#   }
+# }

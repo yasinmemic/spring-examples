@@ -16,6 +16,8 @@
         <module>spring-boot-api-doc</module>
         <module>spring-boot-rabbit-mq</module>
         <module>spring-boot-aop</module>
+        <module>spring-boot-graphql</module>
+        <module>spring-redis-cache</module>
     </modules>
 
 
